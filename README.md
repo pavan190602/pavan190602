@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">Computer science engineering student</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/in/yvpavankumar/**
+- 📫 Reach me **https://www.linkedin.com/in/yvpavankumar/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
