@@ -1,21 +1,78 @@
-Hi, I'm Pavan Kumar 👋
-MS Computer Science @ University of Central Missouri  ·  AI/ML Engineer  ·  LLM & RAG Systems
+<h1 align="center">Hi, I'm Venkata Pavan Kumar Yadlapalli 👋</h1>
 
-# 💫 About Me:
-👨‍💻 I'm Currently Working on Agents , Agentic Ai<br>🎯 AI/ML Engineer | Generative AI & Agentic AI <br>🧠 LLMs • RAG • LangChain • Fine-Tuning | Python • FastAPI • AWS | MLOps<br>🎓 Pursuing my MS in Computer Science at University of Central Missouri (GPA: 3.5/4.0)<br>🔬 I build hybrid AI systems that combine LLMs, RAG pipelines, and symbolic reasoning<br>📄 Published researcher: Brain Tumor Detection Using CNN Deep Learning<br>🤖 Passionate about making AI decisions explainable and trustworthy<br>📍Overland Park , Kansas , United States<br><br>Actively Looking for Open Positions in AI ML and Releated roles<br>
+<p align="center">
+MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM & RAG Systems
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yvpavankumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavankumar190602@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavan190602&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pavan190602&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan190602&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="mailto:pavankumar190602@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yvpavankumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/pavan190602"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pavan190602&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧠 About Me
+
+- 🎓 Pursuing my MS in Computer Science at the University of Central Missouri (GPA: 3.5/4.0)
+- 🤖 Working on Agents and Agentic AI
+- 🧠 Focused on LLMs, RAG, LangChain, Fine-Tuning, FastAPI, AWS, and MLOps
+- 🔬 Published researcher: *Brain Tumor Detection Using CNN Deep Learning*
+- ⚡ Passionate about making AI decisions explainable and trustworthy
+- 📍 Overland Park, Kansas, United States
+- 🚀 Actively looking for open positions in AI, ML, and related roles
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧠 [Brain Tumor Detection CNN](https://github.com/pavan190602/Brain_Tumor_Detection_CNN) | Deep learning model for brain tumor detection from MRI scans | Python, CNN, TensorFlow |
+| 🤖 [Neuro-Symbolic AI Chatbot](https://github.com/SahithReddyVellenki/NeuroSymbolic-AI-Chatbot-using-RAG) | Hybrid AI chatbot combining RAG with symbolic reasoning for explainable responses | Python, RAG, LangChain, LLMs |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pavan190602&show_icons=true&theme=default&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan190602&theme=default&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan190602&layout=compact&theme=default&hide_border=false"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Agentic AI systems
+- LLM and RAG applications
+- Explainable and trustworthy AI
+- Building job-ready AI/ML projects
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=pavan190602&icon=0&color=0"/>
+</p>
