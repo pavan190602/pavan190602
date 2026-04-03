@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pavan Kumar  👋</h1>
+<h1 align="center">Hi, I'm Pavan   👋</h1>
 
 <p align="center">
 MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM & RAG Systems
