@@ -47,7 +47,7 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧠 [Brain Tumor Detection CNN](https://github.com/pavan190602/Brain_Tumor_Detection_CNN) | Deep learning model for brain tumor detection from MRI scans | Python, CNN, TensorFlow |
+| 🧠 [Brain Tumor Detection CNN](https://github.com/pavan190602/BrainTDDL) | Deep learning model for brain tumor detection from MRI scans | Python, CNN, TensorFlow |
 | 🤖 [Neuro-Symbolic AI Chatbot](https://github.com/SahithReddyVellenki/NeuroSymbolic-AI-Chatbot-using-RAG) | Hybrid AI chatbot combining RAG with symbolic reasoning for explainable responses | Python, RAG, LangChain, LLMs |
 
 ---
