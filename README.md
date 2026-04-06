@@ -52,6 +52,15 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ---
 
+## 📜 Publications & Certifications
+
+- 📄 **Research Paper** — [Brain Tumor Detection Using Convolutional Neural Networks with Morphological Filtering: A Hybrid Deep Learning Approach for Accurate MRI Classification]
+(https://docs.google.com/document/d/1bchEEFL38Pr1vI6qnwtTo197qYfrWttK/edit?usp=drive_link&ouid=101873375790964021360&rtpof=true&sd=true)
+
+
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -75,5 +84,5 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=pavan190602&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=pavan190602&style=flat-square&color=blue" alt="Profile views"/>
 </p>
