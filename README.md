@@ -12,6 +12,12 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ---
 
+- AI/ML Engineer specializing in **Generative AI, LLMs, and Agentic AI systems**, with hands-on experience in building **neuro-symbolic AI systems, RAG pipelines, and deep learning models**.
+- Focused on developing **scalable, explainable, and real-world AI applications**.
+
+
+---
+
 ## 🧠 About Me
 
 - 🎓 Pursuing my MS in Computer Science at the University of Central Missouri (GPA: 3.5/4.0)
@@ -46,28 +52,29 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| 🧠 [Brain Tumor Detection CNN](https://github.com/pavan190602/BrainTDDL) | Deep learning model for brain tumor detection from MRI scans | Python, CNN, TensorFlow |
-| 🤖 [Neuro-Symbolic AI Chatbot](https://github.com/SahithReddyVellenki/NeuroSymbolic-AI-Chatbot-using-RAG) | Hybrid AI chatbot combining RAG with symbolic reasoning for explainable responses | Python, RAG, LangChain, LLMs |
+|--------|------------|-------|
+| 🤖 [Neuro-Symbolic AI System](https://github.com/pavan190602/Neuro-Symbolic-Ai) | Agentic decision-support system combining LLMs, RAG, symbolic reasoning, and real-world data (BLS, College Scorecard) for explainable AI decisions | Python, LLMs, RAG, LangChain, Streamlit |
+| 🧠 [Brain Tumor Detection CNN](https://github.com/pavan190602/Brain_Tumor_Detection_CNN) | Deep learning model for detecting brain tumors from MRI scans | Python, TensorFlow, CNN |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pavan190602&show_icons=true&theme=default&hide_border=false"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan190602&theme=default&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan190602&layout=compact&theme=default&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pavan190602&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan190602"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan190602&layout=compact"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Agentic AI systems
-- LLM and RAG applications
-- Explainable and trustworthy AI
-- Building job-ready AI/ML projects
+- 🤖 Agentic AI systems  
+- 🧠 Neuro-Symbolic AI  
+- 📄 RAG-based applications  
+- ⚙️ AI + FastAPI deployment  
+- ☁️ Production-ready ML systems  
 
 ---
 
