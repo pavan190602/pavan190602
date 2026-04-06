@@ -14,13 +14,13 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ## 🧠 About Me
 
-- 🎓 Pursuing my MS in Computer Science at the University of Central Missouri (GPA: 3.5/4.0)
+- 🎓 Pursuing my **MS in Computer Science** at the **University of Central Missouri** (GPA: 3.5/4.0)
 - 🤖 Working on Agents and Agentic AI
 - 🧠 Focused on LLMs, RAG, LangChain, Fine-Tuning, FastAPI, AWS, and MLOps
 - 🔬 Published researcher: *Brain Tumor Detection Using CNN Deep Learning*
 - ⚡ Passionate about making AI decisions explainable and trustworthy
 - 📍 Overland Park, Kansas, United States
-- 🚀 Actively looking for open positions in AI, ML, and related roles
+- 🚀 Actively looking for open positions in AI, ML, and related roles.
 
 ---
 
