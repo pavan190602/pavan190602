@@ -12,12 +12,6 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ---
 
-- AI/ML Engineer specializing in **Generative AI, LLMs, and Agentic AI systems**, with hands-on experience in building **neuro-symbolic AI systems, RAG pipelines, and deep learning models**.
-- Focused on developing **scalable, explainable, and real-world AI applications**.
-
-
----
-
 ## 🧠 About Me
 
 - 🎓 Pursuing my MS in Computer Science at the University of Central Missouri (GPA: 3.5/4.0)
