@@ -52,7 +52,7 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ---
 
-## 📜 Publications & Certifications
+## 📜 Publications
 
 - 📄 **Research Paper** — [Brain Tumor Detection Using Convolutional Neural Networks with Morphological Filtering: A Hybrid Deep Learning Approach for Accurate MRI Classification](https://docs.google.com/document/d/1bchEEFL38Pr1vI6qnwtTo197qYfrWttK/edit?usp=drive_link&ouid=101873375790964021360&rtpof=true&sd=true)
 
@@ -60,6 +60,9 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ---
 
+# 📰 Certifications
+-
+---
 ## 📊 GitHub Stats
 
 <p align="center">
