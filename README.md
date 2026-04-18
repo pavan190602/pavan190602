@@ -83,7 +83,7 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ---
 
-//## 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavan190602&style=flat-square&color=blue" alt="Profile views"/>
