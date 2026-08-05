@@ -24,6 +24,15 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|------------|-------|
+| 🤖 [Neuro-Symbolic AI System](https://github.com/pavan190602/Neuro-Symbolic-Ai) | Agentic decision-support system combining LLMs, RAG, symbolic reasoning, and real-world data (BLS, College Scorecard) for explainable AI decisions | Python, LLMs, RAG, LangChain, Streamlit |
+| 🤖 [Langchain_RAG_](https://github.com/pavan190602/Langchain_RAG_) | Production-grade Retrieval-Augmented Generation system with hybrid search, multi-stage reranking, knowledge graph entity matching, and LangGraph orchestration.| Python, LLMs, RAG, LangChain |
+| 🧠 [Brain Tumor Detection CNN](https://github.com/pavan190602/Brain_Tumor_Detection_CNN) | Deep learning model for detecting brain tumors from MRI scans | Python, TensorFlow, CNN |
+
+---
 ## ⚒️ Tech Stack
 
 <p align="center">
@@ -42,17 +51,6 @@ MS Computer Science @ University of Central Missouri • AI/ML Engineer • LLM 
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|------------|-------|
-| 🤖 [Neuro-Symbolic AI System](https://github.com/pavan190602/Neuro-Symbolic-Ai) | Agentic decision-support system combining LLMs, RAG, symbolic reasoning, and real-world data (BLS, College Scorecard) for explainable AI decisions | Python, LLMs, RAG, LangChain, Streamlit |
-| 🤖 [Langchain_RAG_](https://github.com/pavan190602/Langchain_RAG_) | Production-grade Retrieval-Augmented Generation system with hybrid search, multi-stage reranking, knowledge graph entity matching, and LangGraph orchestration.| Python, LLMs, RAG, LangChain |
-| 🧠 [Brain Tumor Detection CNN](https://github.com/pavan190602/Brain_Tumor_Detection_CNN) | Deep learning model for detecting brain tumors from MRI scans | Python, TensorFlow, CNN |
-
----
-
 ## 📜 Publications
 
 - 📄 **Research Paper** — [Brain Tumor Detection Using Convolutional Neural Networks with Morphological Filtering: A Hybrid Deep Learning Approach for Accurate MRI Classification](https://docs.google.com/document/d/1bchEEFL38Pr1vI6qnwtTo197qYfrWttK/edit?usp=drive_link&ouid=101873375790964021360&rtpof=true&sd=true)
